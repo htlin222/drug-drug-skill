@@ -47,6 +47,14 @@ This skill follows the [vercel-labs/skills](https://github.com/vercel-labs/skill
 Each push to `main` triggers a GitHub Action that packages the skill as a `.skill` file
 and creates a release tagged with the commit SHA.
 
+## Reference
+
+The classification methodology used in this skill is based on the Micromedex DRUG-REAX interaction grading system:
+
+1. Baxter K, Preston CL, eds. *Stockley's Drug Interactions*. 12th ed. Pharmaceutical Press; 2019.
+2. IBM Micromedex DRUGDEX System. IBM Watson Health, Greenwood Village, Colorado, USA. Accessed 2026. https://www.micromedexsolutions.com
+3. Hansten PD, Horn JR. The top 100 drug interactions: a guide to patient management. *Drug Interact Newsl*. 2024;44(1):1-142.
+
 ## License
 
 This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
