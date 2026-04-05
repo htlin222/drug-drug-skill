@@ -5,20 +5,19 @@
 - **Drug A:** Methotrexate (MTX) (Trexall, Otrexup, Rasuvo, Xatmep)
 - **Drug B:** Trimethoprim/Sulfamethoxazole (TMP/SMX) (Bactrim, Septra, Sulfatrim)
 
-## Interaction Summary
+## Structured Classification
+
+| Parameter       | Grade        | Note                                                                                                                                                                              |
+|-----------------|--------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Severity        | **Major**    | Life-threatening pancytopenia and fatal outcomes documented; MTX is a narrow therapeutic index (NTI) drug, warranting severity upgrade consideration. FDA label warns of increased bone marrow suppression. |
+| Onset           | **Delayed**  | Clinical effects (pancytopenia, mucositis) typically manifest 3--14 days after co-administration, reflecting accumulation of MTX and progressive folate depletion.                |
+| Documentation   | **Good**     | Supported by one randomized PK crossover study (Ferrazzini 1990), one systematic review (Al-Quteimat 2013), multiple cohort studies (Sadeghi 2025, Watts 2016, Skoloda 2024), and >17 published case reports with consistent findings. No large RCT specifically designed to establish the interaction in low-dose MTX patients, hence Good rather than Excellent. |
+
+## Interaction Effect
 
 Concurrent use of methotrexate and TMP/SMX produces synergistic antifolate toxicity compounded by reduced renal clearance and protein-binding displacement of MTX, resulting in severe pancytopenia, mucositis, nephrotoxicity, and potentially death.
 
-## Structured Classification
-
-| Parameter     | Grade      | Note                                                                                                                                                                              |
-|---------------|------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Severity      | **Major**  | Life-threatening pancytopenia and fatal outcomes documented; MTX is a narrow therapeutic index (NTI) drug, warranting severity upgrade consideration. FDA label warns of increased bone marrow suppression. |
-| Documentation | **Good**   | Supported by one randomized PK crossover study (Ferrazzini 1990), one systematic review (Al-Quteimat 2013), multiple cohort studies (Sadeghi 2025, Watts 2016, Skoloda 2024), and >17 published case reports with consistent findings. No large RCT specifically designed to establish the interaction in low-dose MTX patients, hence Good rather than Excellent. |
-| Onset         | **Delayed** | Clinical effects (pancytopenia, mucositis) typically manifest 3--14 days after co-administration, reflecting accumulation of MTX and progressive folate depletion.                |
-| Mechanism     | **Both PK + PD** | Pharmacodynamic synergistic antifolate effect PLUS pharmacokinetic competition for renal tubular secretion and protein-binding displacement (see details below).              |
-
-## Mechanism Details
+## Probable Mechanism
 
 This interaction operates through three concurrent, synergistic pathways:
 
@@ -69,7 +68,7 @@ In a propensity-matched cohort of 3,204 older adults on low-dose MTX (Sadeghi et
 
 Two studies in oncology patients receiving high-dose MTX (HDMTX 2.5--5 g/m2) with prophylactic low-dose TMP/SMX for PCP prophylaxis found no clinically significant interaction (Watts et al. 2016, n=424 patients; Skoloda et al. 2024, n=221 patients). This likely reflects the intensive hydration, urinary alkalinization, leucovorin rescue, and close MTX level monitoring inherent to HDMTX protocols. These findings should NOT be extrapolated to outpatient low-dose MTX settings where such safeguards are absent.
 
-## Management Recommendations
+## Clinical Management
 
 ### 1. Avoidance (Preferred)
 

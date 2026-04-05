@@ -145,28 +145,19 @@ Produce the final report in the following format:
 - **Drug A:** [Generic Name] ([Brand Names])
 - **Drug B:** [Generic Name] ([Brand Names])
 
-## Interaction Summary
-
-[One-sentence summary of the core interaction]
-
 ## Structured Classification
 
-| Parameter     | Grade          | Note              |
-|---------------|----------------|-------------------|
-| Severity      | [Grade]        | [note]            |
-| Documentation | [Grade]        | [note]            |
-| Onset         | [Grade]        | [note]            |
-| Mechanism     | [PK/PD]        | [detail]          |
+| Parameter       | Grade          | Note              |
+|-----------------|----------------|-------------------|
+| Severity        | [Grade]        | [note]            |
+| Onset           | [Grade]        | [note]            |
+| Documentation   | [Grade]        | [note]            |
 
-## Mechanism Details
+## Interaction Effect
 
-[Detailed pharmacological mechanism including enzymes/transporters/receptors involved]
+[Description of the clinical effect of the interaction — what happens when these drugs are used together]
 
-## Clinical Effects
-
-[Description of potential clinical consequences, including PK data (AUC/Cmax changes) if available]
-
-## Management Recommendations
+## Clinical Management
 
 [Specific clinical management recommendations:]
 
@@ -174,6 +165,10 @@ Produce the final report in the following format:
 - Dose adjustments required
 - Monitoring parameters
 - Alternative drug suggestions
+
+## Probable Mechanism
+
+[Pharmacological mechanism — PK and/or PD, including specific enzymes, transporters, or receptors involved. Include PK data (AUC/Cmax changes) if available from studies.]
 
 ## Evidence Sources
 

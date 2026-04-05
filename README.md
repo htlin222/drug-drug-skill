@@ -53,7 +53,7 @@ This skill uses a Retrieval-Augmented Generation (RAG) approach grounded in the 
 
 1. Anderson A, Bull B, Schultz P, Wecker F. Mastering AI in clinical decision support: practical insights and evaluation strategies. Merative; 2025. MDX-9201861539 Rev 1.0.
 2. Baxter K, Preston CL, eds. *Stockley's Drug Interactions*. 12th ed. Pharmaceutical Press; 2019.
-3. IBM Micromedex DRUGDEX System. IBM Watson Health, Greenwood Village, Colorado, USA. Accessed 2026. https://www.micromedexsolutions.com
+3. Micromedex (electronic version). Merative, Ann Arbor, Michigan, USA. Available at: https://www.micromedexsolutions.com/ (cited: April 5, 2026).
 4. Hansten PD, Horn JR. The top 100 drug interactions: a guide to patient management. *Drug Interact Newsl*. 2024;44(1):1-142.
 
 ## License
